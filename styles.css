@@ -241,7 +241,7 @@ html,body{
 .cart-row {
     display: flex;
     justify-content: space-around;
-    
+     
 }
 .cart-each-row-column{
     display: flex;
